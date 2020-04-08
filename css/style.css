@@ -1,0 +1,195 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    padding: 20px;
+    font-family: Montserrat;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.contacts-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.contacts-link {
+
+    color: #646c77;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.contact-link-type {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+.tech-skills-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.soft-skills-title {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.skills-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.skills-text {
+    color: #e1e2e4;
+}
+
+.my-title {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.my-name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-top: 24px;
+}
+
+.about-me-text {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    /* Text style for "Lorem ipsu" */
+    letter-spacing: 0.42px;
+    margin-top: 24px;
+    padding-right: 20px;
+}
+
+.about-me-titles {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 55px;
+    margin-bottom: 15px;
+}
+
+.my-project-items {
+    color: #000000;
+    font-weight: 700;
+    letter-spacing: 0.42px;
+    margin-left: 20px;
+}
+
+.my-project-text {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+
+.job-name {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.company-names {
+    color: #ff6b08;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.dates-of-work {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.dates-of-work1 {
+    font-size: 12px;
+    color: #000000;
+    font-weight: 700;
+}
+
+.job-experience-items {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 20px;
+    letter-spacing: 0.42px;
+    margin-top: 10px;
+}
+
+.dots {
+    font-size: 12px;
+    font-weight: 100;
+}
